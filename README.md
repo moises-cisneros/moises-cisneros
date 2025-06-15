@@ -1,22 +1,22 @@
-<h1 align="center">¡Hola, soy Moises 👋!</h1>
-<h3 align="center">Desarrollador Backend | Cloud & DevOps | Blockchain</h3>
+<h1 align="center">Hey there, I'm Moises 👋!</h1>
+<h3 align="center">Backend Developer | Cloud & DevOps | Blockchain Enthusiast</h3>
 
 <p align="center">
-  Apasionado por la tecnología, la educación y el impacto social. Actualmente construyendo soluciones eficientes desde el backend, automatizando con DevOps y explorando el futuro con Solidity y Blockchain.
+  Passionate about technology, education, and social impact. Currently building efficient backend solutions, automating workflows with DevOps, and exploring the future with Solidity and Blockchain.
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 💻 Me encanta desarrollar soluciones robustas, escalables y bien documentadas.
-- 🚀 Actualmente participando en el reto [90 Días DevOps](https://github.com/moises-cisneros/90DaysDevops)
-- 🌱 Aprendiendo continuamente sobre arquitectura en la nube, Kubernetes, Terraform y más.
-- 👨‍🏫 También comparto conocimiento en comunidades tech, especialmente sobre desarrollo backend y blockchain.
+- 💻 I love crafting robust, scalable, and well-documented systems.
+- 🚀 Currently participating in the [90 Days of DevOps Challenge](https://github.com/moises-cisneros/90DaysDevops)
+- 🌱 Constantly learning about cloud architecture, Kubernetes, Terraform, and more.
+- 👨‍🏫 Actively sharing knowledge in tech communities, focusing on backend development and blockchain.
 
 ---
 
-### 🚀 Tecnologías que uso
+### 🚀 Technologies I Use
 
 #### ⚙️ Backend
 <p>
@@ -27,7 +27,7 @@
   <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/></a>
 </p>
 
-#### 📦 Bases de Datos
+#### 📦 Databases
 <p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -36,7 +36,7 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 </p>
 
-#### ☁️ Cloud & Deploy
+#### ☁️ Cloud & Deployment
 <p>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
@@ -58,7 +58,7 @@
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </p>
 
-#### 🔐 Blockchain & Otros
+#### 🔐 Blockchain & Others
 <p>
   <a href="https://soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -78,11 +78,11 @@
 
 ---
 
-### 📫 Conecta conmigo
+### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moises-cisneros/)
 - 📧 moisescisnerosdl@gmail.com
 
 ---
 
-🧡 *Gracias por visitar mi perfil. ¡Construyamos algo increíble juntos!*
+🧡 *Thanks for visiting my profile. Let’s build something amazing together!*
